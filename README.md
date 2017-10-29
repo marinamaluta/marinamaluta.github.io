@@ -2,7 +2,8 @@
 
 Hello!!! Meu nome é Marina, nascida em Belo Horizonte mas atualmente morando em São Paulo/SP.
 Minha formação inicial é em Nutrição com especialização em Gestão Integrada da Qualidade - ISO 9001, 14001 e 18001.
-Atualmente, me encontro em transição de carreira para a área de Tecnologia. Meu primeiro contato com a programação foi pela [REPROGRAMA] (http://reprograma.com.br/) e foi esta oportunidade que me instigou a paixão pela área. Hoje me sinto uma nova adolescente de volta às aulas, sendo aluna dedicada no curso do SENAI [CODE XP](https://codexp.sp.senai.br/), com o qual eu acredito que me abrirá portas para novas oportunidades profissionais. 
+Atualmente, me encontro em transição de carreira para a área de Tecnologia. Meu primeiro contato com a programação foi pela [REPROGRAMA] (http://reprograma.com.br/) e foi esta oportunidade que me instigou a paixão pela área.
+Hoje me sinto uma nova adolescente de volta às aulas, sendo aluna dedicada no curso do SENAI [CODE XP](https://codexp.sp.senai.br/), com o qual eu acredito que me abrirá portas para novas oportunidades profissionais. 
  
  Se você se encontra em transição de carreira para a área de tecnologia e procura por novos conhecimentos, contatos e aprendizados neste novo desafio, tenho certeza que se identificará muito comigo <3
 
