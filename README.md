@@ -9,7 +9,7 @@ Hoje me sinto uma nova adolescente de volta às aulas, sendo aluna dedicada no c
 
 ## O que você encontrará por aqui?
 
-Como sou detalhista e gosto de anotar tudo o que escuto e aprendo, aqui estará uma parte das minhas anotações que faço das aulas do curso [CODE XP] (https://codexp.sp.senai.br/) com ênfase em Front-End e também anotações pontuais de eventos que frequento de tecnologia. 
+Como sou detalhista e gosto de anotar tudo o que escuto e aprendo, aqui estará uma parte das minhas anotações que faço das aulas do curso [CODE XP](https://codexp.sp.senai.br/) com ênfase em Front-End e também anotações pontuais de eventos que frequento de tecnologia. 
 
 ### Anotações por temas:
 
