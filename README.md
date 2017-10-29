@@ -12,13 +12,13 @@ Como sou detalhista e gosto de anotar tudo o que escuto e aprendo, aqui estará 
 
 ### Anotações por temas:
 
-###**Aula 1**: Introdução do curso Front-End [CODE XP] - 03.10.17
-###**Aula 2**:Introdução a HTML - 05.10.17
-###**Aula 3**:HTML - CSS / Apresentação projeto Busca Curso / Demonstração de sites de busca - 17.10.17
-###**Aula 4**:CSS / Links úteis / Slide 06 (github front-xp) - 18.10.17
-###**Aula 5**:Box Model / Border-box / Position - 19.10.17
-###**Aula 6**:(Prática) Box Model / Unidade de medidas - 20.10.17
-###**Aula 7**:(Prática - Grupo B) Box Model / Trello - 24.10.17
+### Aula 1: Introdução do curso Front-End [CODE XP] - 03.10.17
+### Aula 2: Introdução a HTML - 05.10.17
+### Aula 3: HTML - CSS / Apresentação projeto Busca Curso / Demonstração de sites de busca - 17.10.17
+### Aula 4: CSS / Links úteis / Slide 06 (github front-xp) - 18.10.17
+### Aula 5: Box Model / Border-box / Position - 19.10.17
+### Aula 6: (Prática) Box Model / Unidade de medidas - 20.10.17
+### Aula 7: (Prática - Grupo B) Box Model / Trello - 24.10.17
 
 
 [Link](url) and ![Image](src)
