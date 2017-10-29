@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Bem-vindo ao meu cantinho de anotações pessoais.
 
-You can use the [editor on GitHub](https://github.com/marinamaluta/marinamaluta.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Meu nome é Marina, nascida em Belo Horizonte mas atualmente morando em São Paulo/SP.
+Minha formação inicial é em Nutrição com especialização em Gestão Integrada da Qualidade - ISO 9001, 14001 E 18001.
+Atualmente me encontro em transição de carreira para a área de Tecnologia. Meu primeiro contato com a programação foi pela {REPROGRAMA}, e foi esta oportunidade que me instigou a paixão pela área. Hoje me sinto uma nova adoslescente de volta as aulas, sendo aluna dedicada no curso CODE XP, com o qual eu acredito que me abrirá portas para novas oportunidades profissionais. <3
 
 ### Markdown
 
