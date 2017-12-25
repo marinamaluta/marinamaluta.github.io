@@ -9,19 +9,22 @@ Hoje me sinto uma nova adolescente de volta às aulas, sendo aluna dedicada no c
 
 ## O que você encontrará por aqui?
 
-Como sou detalhista e gosto de anotar tudo o que escuto e aprendo, aqui estará uma parte das minhas anotações que faço das aulas do curso [CODE XP](https://codexp.sp.senai.br/) com ênfase em Front-End e também anotações pontuais de eventos que frequento de tecnologia. 
+Me prendo ao detalhes e gosto de anotar tudo o que escuto e aprendo. Aqui estará uma parte das minhas anotações que faço das aulas do curso [CODE XP](https://codexp.sp.senai.br/) com ênfase em Front-End e também anotações pontuais de eventos que frequento de tecnologia. 
 
 ### Anotações por temas:
 
 #### Aula 1: Introdução do curso Front-End [CODE XP] - 03.10.17
-#### Aula 2: Introdução a HTML - 05.10.17
+#### Aula 2: Introdução a HTML [CODE XP](marinamaluta.github.io/IntroduçãoaHTML) - 05.10.17
 #### Aula 3: HTML - CSS / Apresentação projeto Busca Curso / Demonstração de sites de busca - 17.10.17
 #### Aula 4: CSS / Links úteis / Slide 06 (github front-xp) - 18.10.17
 #### Aula 5: Box Model / Border-box / Position - 19.10.17
 #### Aula 6: (Prática) Box Model / Unidade de medidas - 20.10.17
 #### Aula 7: (Prática - Grupo B) Box Model / Trello - 24.10.17
-
-
+#### Aula 8: Git / Visual Code / FlexBox - 08.11.17
+#### Aula 9: Componentização - 27.11.17
+#### Aula 10: Lógica de programação - React - 28.11.17
+#### Aula 11: Operadores Aritméticos/Relacionais - 29.11.17
+#### Aula 12: Funções / Laços de repetição - 06.12.17
 
 ## Portfólio
 
