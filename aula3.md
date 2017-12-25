@@ -23,11 +23,11 @@ Repositório do GitHub para vagas: <br>
 GitHub frontbr vagas<br>
 <br>
 <br>
-###Curiosidades:
+### Curiosidades:
 
-- Tag <iframe>: para incorporar outros sites dentro do seu. ex: youtube, maps.<br>
-- Tag &lt;input type=”date”&gt; para calendários<br>
-- Tag &lt;button&gt; é só dentro de formulário, se não estiver, usa-se link href.<br>
-- Tags dentro de img, Alt e title tem a mesma função.<br>
-- Tag &lt;adress&gt;: para colocar endereço com o link de acesso - MDN<br>
-- Tag &lt;main&gt;: mais apropriada para conteudo<br>
+- Tag <iframe>: para incorporar outros sites dentro do seu. ex: youtube, maps.
+- Tag &lt;input type=”date”&gt; para calendários
+- Tag &lt;button&gt; é só dentro de formulário, se não estiver, usa-se link href.
+- Tags dentro de img, Alt e title tem a mesma função.
+- Tag &lt;adress&gt;: para colocar endereço com o link de acesso - MDN
+- Tag &lt;main&gt;: mais apropriada para conteudo
