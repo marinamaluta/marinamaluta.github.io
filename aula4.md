@@ -1,5 +1,14 @@
 # Aula 4: CSS / Links úteis / Slide 06 (github front-xp)
 
+## Ordenação de declaração
+  ### Agrupamento por tipo e relevância:<br>
+Posição - position<br>
+Modelo de caixa e display<br>
+Fonte e tipografia: font-family<br>
+Cor: color<br>
+Background e bordas - background / border<br>
+<br>
+
 ### Exemplo de lista:<br>
 * dl: Definion list 
 * dt: Definição de termo
@@ -13,17 +22,7 @@
 &lt;/dl&gt;<br>
 <br>
 
-
-## Ordenação de declaração
-  ### Agrupamento por tipo e relevância:<br>
-Posição - position<br>
-Modelo de caixa e display<br>
-Fonte e tipografia: font-family<br>
-Cor: color<br>
-Background e bordas - background / border<br>
-<br>
-
-#### Curiosidades
+#### Curiosidades<br>
 * Font-family é herdável. Colocando no pai - Busca: MDN<br>
 * Height e width não são herdáveis (inherited)<br>
 * Taquigrafia css - múltiplos valores: border, margin, padding
