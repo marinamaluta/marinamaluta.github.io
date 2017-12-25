@@ -2,16 +2,16 @@ Aula 3:  HTML - CSS
 
 Links úteis:
 
-*[Can I Use](caniuse.com) <br>
-*[Mozilla Developer](https://developer.mozilla.org/pt-BR/)<br>
-*[Notepad Online](https://itextpad.com)<br>
+* [Can I Use](caniuse.com) <br>
+* [Mozilla Developer](https://developer.mozilla.org/pt-BR/)<br>
+* [Notepad Online](https://itextpad.com)<br>
  <br>
  <br>
  
 Ferramentas para gerenciamento de projetos - Tecnologia<br>
-*[Zeplin](https://zeplin.io/): Elaboração 01 projeto- Design gratuito<br>
-*[Invision app](Invisionapp.com): Elaboração de 05 projetos gratuitos<br>
-*[Sympli](https://sympli.io/): Projetos de design<br>
+* [Zeplin](https://zeplin.io/): Elaboração 01 projeto- Design gratuito<br>
+* [Invision app](Invisionapp.com): Elaboração de 05 projetos gratuitos<br>
+* [Sympli](https://sympli.io/): Projetos de design<br>
 <br>
 <br>
 Gerenciamento de projetos - Design<br>
