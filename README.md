@@ -18,7 +18,7 @@ Me prendo ao detalhes e gosto de anotar tudo o que escuto e aprendo. Aqui estar�
 #### [Aula 3](https://marinamaluta.github.io/aula3.md): HTML - CSS / Apresentação projeto Busca Curso / Demonstração de sites de busca - 17.10.17
 #### [Aula 4](marinamaluta.github.io/aula4.md): CSS / Links úteis / Slide 06 (github front-xp) - 18.10.17
 #### [Aula 5](marinamaluta.github.io/aula5.md): Box Model / Border-box / Position - 19.10.17
-#### Aula 6: (Prática) Box Model / Unidade de medidas - 20.10.17
+#### [Aula 6]: (Prática) Box Model / Unidade de medidas - 20.10.17
 #### Aula 7: (Prática - Grupo B) Box Model / Trello - 24.10.17
 #### Aula 8: Git / Visual Code / FlexBox - 08.11.17
 #### Aula 9: Componentização - 27.11.17
