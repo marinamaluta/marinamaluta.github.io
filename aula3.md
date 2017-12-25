@@ -1,29 +1,26 @@
-Aula 3:  HTML - CSS
+# Aula 3:  HTML - CSS
 
-Links úteis:
+## Links úteis:
 
-* [Can I Use](caniuse.com) <br>
-* [Mozilla Developer](https://developer.mozilla.org/pt-BR/)<br>
-* [Notepad Online](https://itextpad.com)<br>
- <br>
- <br>
- 
-Ferramentas para gerenciamento de projetos - Tecnologia<br>
-* [Zeplin](https://zeplin.io/): Elaboração 01 projeto- Design gratuito<br>
-* [Invision app](Invisionapp.com): Elaboração de 05 projetos gratuitos<br>
-* [Sympli](https://sympli.io/): Projetos de design<br>
+* [Can I Use](caniuse.com)
+* [Mozilla Developer](https://developer.mozilla.org/pt-BR/)
+* [Notepad Online](https://itextpad.com)
+
+## Ferramentas para gerenciamento de projetos - Tecnologia
+* [Zeplin](https://zeplin.io/): Elaboração 01 projeto- Design gratuito
+* [Invision app](Invisionapp.com): Elaboração de 05 projetos gratuitos
+* [Sympli](https://sympli.io/): Projetos de design
 <br>
 <br>
-Gerenciamento de projetos - Design<br>
-Fotoshop<br>
-Sketch<br>
-<br>
-<br>
-Repositório do GitHub para vagas: <br>
+
+## Gerenciamento de projetos - Design<br>
+* Fotoshop<br>
+* Sketch<br>
+
+## Repositório do GitHub para vagas: <br>
 GitHub frontbr vagas<br>
-<br>
-<br>
-### Curiosidades:
+
+#### Curiosidades:
 
 - Tag <iframe>: para incorporar outros sites dentro do seu. ex: youtube, maps.
 - Tag &lt;input type=”date”&gt; para calendários
