@@ -1,7 +1,9 @@
 # Aula 4: CSS / Links úteis / Slide 06 (github front-xp)
 
 ## Ordenação de declaração
+
   ### Agrupamento por tipo e relevância:<br>
+  
 Posição - position<br>
 Modelo de caixa e display<br>
 Fonte e tipografia: font-family<br>
