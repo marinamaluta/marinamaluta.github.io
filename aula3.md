@@ -25,9 +25,9 @@ GitHub frontbr vagas<br>
 <br>
 ###Curiosidades:
 
-Tag Iframe: para incorporar outros sites dentro do seu. ex: youtube, maps.<br>
-<input type=”date”> para calendários<br>
--button é só dentro de formulário, se não estiver, usa-se link href.<br>
--As tags dentro de img, Alt e title tem a mesma função.<br>
+- Tag <iframe>: para incorporar outros sites dentro do seu. ex: youtube, maps.<br>
+- Tag <input type=”date”> para calendários<br>
+- Tag <button> é só dentro de formulário, se não estiver, usa-se link href.<br>
+- Tags dentro de img, Alt e title tem a mesma função.<br>
 - Tag <adress> para colocar endereço com o link de acesso - MDN<br>
 - Tag <main> = mais apropriada para contéudo<br>
