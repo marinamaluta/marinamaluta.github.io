@@ -14,7 +14,7 @@ Me prendo ao detalhes e gosto de anotar tudo o que escuto e aprendo. Aqui estar�
 ### Anotações por temas:
 
 #### Aula 1: Introdução do curso Front-End [CODE XP] - 03.10.17
-#### Aula 2: Introdução a HTML [CODE XP](https://marinamaluta.github.io/Introdu%C3%A7%C3%A3oaHTML) - 05.10.17
+#### Aula 2: Introdução ao HTML - Links úteis [CODE XP](https://marinamaluta.github.io/IntroducaoaoHTML.md) - 05.10.17
 #### Aula 3: HTML - CSS / Apresentação projeto Busca Curso / Demonstração de sites de busca - 17.10.17
 #### Aula 4: CSS / Links úteis / Slide 06 (github front-xp) - 18.10.17
 #### Aula 5: Box Model / Border-box / Position - 19.10.17
