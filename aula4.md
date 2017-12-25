@@ -1,18 +1,17 @@
 Aula 4: CSS / Links úteis / Slide 06 (github front-xp)
 
-
 -Font-family é herdável. Colocando no pai - Busca: MDN<br>
 -Height e width não são herdáveis (inherited)<br>
 -Taquigrafia css - múltiplos valores: border, margin, padding<br>
 <br>
 Exemplo de lista:<br>
 - dl: Definion list dt: Definição de termo  dd:Descrição do termo<br>
-<dl><br>
-  <dt>Coffee</dt><br>
-  <dd>Black hot drink</dd><br>
-  <dt>Milk</dt><br>
-  <dd>White cold drink</dd><br>
-</dl><br>
+&lt;dl&gt;<br>
+  &lt;dt&gt;Coffee&lt;/dt&gt;<br>
+  &lt;dd&gt;Black hot drink&lt;/dd&gt;<br>
+  &lt;dt&gt;Milk&lt;/dt&gt;<br>
+  &lt;dd&gt;White cold drink&lt;/dd&gt;<br>
+&lt;/dl&gt;<br>
 <br>
 -Entender conceito de componente - simples e composto<br>
 
