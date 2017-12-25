@@ -2,11 +2,11 @@ Aula 2: Introdução ao HTML
 
 Links importantes:
 
-*Estudo de tags: w3schools.com -> HTML list
-*Programa de Wireframe: fluidiui.com
-*Material sobre scrum: mindmaster.com.br/scrum
-*Editor de teste: jsfiddle
-*Editor de código: atom / codepen.io
-*Verificar número de ip: meuip.com.br
-*styleguide
+*Estudo de tags: [w3schools.com] -> HTML list <br>
+*Programa de Wireframe: fluidiui.com <br>
+*Material sobre scrum: [mindmaster.com.br/scrum] <br>
+*Editor de teste: jsfiddle <br>
+*Editor de código: atom / codepen.io <br>
+*Verificar número de ip: meuip.com.br <br>
+*styleguide <br>
 
