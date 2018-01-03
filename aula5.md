@@ -2,7 +2,7 @@ Aula 5: Box Model / Border-box / Position
 
 Box model (Modelo de caixa) <br>
 <br>
-1- Default (padrão) = Content-Box (caixa-conteúdo) *Width e height<br>
+1- Default (padrão) = Content-Box (caixa-conteúdo) *Widht e height<br>
 Content (conteúdo)<br>
 Padding (espaçamento entre o conteúdo e a borda)<br>
 Border (após o padding)<br>
